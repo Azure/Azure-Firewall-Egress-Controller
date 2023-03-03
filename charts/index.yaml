@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  egress-azure:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-03T06:13:57.084266122Z"
+    description: Use Azure Firewall as the egress for an Azure Kubernetes Service
+      cluster.
+    digest: 803023af9b75db6c0a4b3b6dd04e47230685292b20ce0ff57b69fb6beb310550
+    name: egress-azure
+    type: application
+    urls:
+    - https://Azure.github.io/Azure-Firewall-Egress-Controller/charts/egress-azure-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-03T06:13:57.083496428Z"
